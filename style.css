@@ -1,0 +1,29 @@
+body {
+    padding: 5%;
+    font-family: cursive;
+}
+div {
+    margin: auto;
+    text-align: center;
+}
+#mainImage {
+    float:left;
+    width: 50%;
+}
+#coordinates {
+    float: left;
+    width: 50%;
+}
+table {
+    border: 10px solid black;
+    border-collapse: collapse;
+    width: 100%;
+}
+td {
+    border: 2px solid yellow;
+    border-collapse: collapse;
+}
+th {
+    border: 2px solid yellow;
+    border-collapse: collapse;
+}
